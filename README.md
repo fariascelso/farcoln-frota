@@ -18,5 +18,9 @@ App de gestão de frota de uma transportadora cliente: viagens, despesas, caixa 
 ## Stack
 Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase · IA com especificação (SDD e PRD)
 
+## Telas (Android, dados de demonstração)
+
+<p><img src="screenshots/android-03-viagens.png" width="220"> <img src="screenshots/android-04-viagem-form.png" width="220"> <img src="screenshots/android-07-pneus-diagrama.png" width="220"> <img src="screenshots/android-01-login.png" width="220"></p>
+
 ---
 **English:** Fleet-management app for a trucking company (trips, expenses, cash, freight reconciliation). Kotlin Multiplatform with 4 targets, ~78% shared code, FEBRABAN bank-slip parser, 114 tests.
