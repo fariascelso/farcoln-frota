@@ -1,6 +1,6 @@
 # FARCOLN Frota
 
-App de gestão de frota de uma transportadora cliente: viagens, despesas, caixa e conciliação de carta-frete. Criado por mim em cerca de 10 semanas, com desenvolvimento assistido por IA (Claude Code).
+App de gestão de frota de uma transportadora cliente: viagens, despesas, caixa e conciliação de carta-frete. Criado por mim em cerca de 10 semanas, com desenvolvimento assistido por IA.
 
 > O código-fonte é privado porque contém dados reais do cliente. Este repositório apresenta o projeto.
 
@@ -16,7 +16,7 @@ App de gestão de frota de uma transportadora cliente: viagens, despesas, caixa 
 - Repositórios por interface com 3 implementações (memória, Firestore e ponte JavaScript na Web).
 
 ## Stack
-Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase · Claude Code
+Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase · IA com especificação (SDD e PRD)
 
 ---
 **English:** Fleet-management app for a trucking company (trips, expenses, cash, freight reconciliation). Kotlin Multiplatform with 4 targets, ~78% shared code, FEBRABAN bank-slip parser, 114 tests.
